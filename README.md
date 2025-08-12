@@ -4,7 +4,6 @@ This code challenge has the purpose of getting a sense of your coding and algori
 
 The main problem is simple, you need to sort all strings in the `data.txt` file and out it in `sorted_data.txt` file. 
 
-
 ## General Instructions
 - It's a 2-members team's work
 - The program must be `terminal-based`
@@ -12,7 +11,8 @@ The main problem is simple, you need to sort all strings in the `data.txt` file 
 - Make sure to document all requirements to buid/compile and run your program (update the [how-to-build-comple](#how-to-buildcompile) and [how to run](#how-to-run) sections)
 - Make sure your program compiles and runs
 - Take advantage of the [`sorted_sample.txt`](https://storage.googleapis.com/tec-challenge/sorted_sample.txt) and [`sorted_complete.txt`](https://storage.googleapis.com/tec-challenge/sorted_complete.txt) files in order to compare you output `sorted_data.txt` file
-- Since the data files are big, tt's recommended to download the file with `wget` or other remote-downloading tool.
+- Since the data files are big, it's recommended to download the file with `wget` or other remote-downloading tool
+-  Make sure to ask as many questions you need in order to understand the problem and the expected solution
 
 
 ## Problem-specific Instructions
@@ -79,6 +79,4 @@ Your program will be tested in an isolated environment (containers) with the fol
 
 ## Grading Policy
 
-Grading will be based in the time it takes for each test case, and the team 
-that gets the fastest time in all scenarios is the one that will win the 
-contest and will get the extra bonus in the final grade.
+Grading will be based in the number of test cases that were successfuly passed.
